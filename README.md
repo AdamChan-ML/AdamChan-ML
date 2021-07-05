@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Chan Ming Li
 - 👀 I’m interested in data analytics and also data science
 - 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me ...
 
 <!---
