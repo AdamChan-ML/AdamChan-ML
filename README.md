@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics and also data science
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on any projects 
-- 📫 Find me on linkedIn www.linkedin.com/in/ming-li-chan-adam-466402210
+- 📫 Find me on linkedIn www.linkedin.com/in/ming-li-chan-adam
 
 <!---
 AdamChan-ML/AdamChan-ML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
