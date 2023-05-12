@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chan Ming Li, Adam</h1>
 <h3 align="center">A data enthusiast who is passionate about data engineering and machine learning</h3>
 
-- 🌱 I’m working on projects related to **data engineering and machine learning**
+- 🌱 Working on projects related to **data engineering and machine learning**
+- 💡 Learning about cool things like Airflow
+- 💞️ Always open to collaboration and opportunities
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamchan-ml&show_icons=true&locale=en&layout=compact" alt="adamchan-ml" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamchan-ml&show_icons=true&locale=en" alt="adamchan-ml" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adamchan-ml&show_icons=true&locale=en" alt="adamchan-ml" /></p>
