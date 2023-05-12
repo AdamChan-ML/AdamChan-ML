@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chan Ming Li, Adam</h1>
-<h3 align="center">A data enthusiast who is passionate about data engineering, data science and machine learning</h3>
+<h3 align="center">A data enthusiast who is passionate about data engineering and machine learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamchan-ml" alt="adamchan-ml" /></a> </p>
-
-- 🌱 I’m currently learning **data engineering and machine learning**
+- 🌱 I’m working on projects related to **data engineering and machine learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,14 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamchan-ml&show_icons=true&locale=en&layout=compact" alt="adamchan-ml" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamchan-ml&show_icons=true&locale=en" alt="adamchan-ml" /></p>
-
-- 👋 Hi, I’m Chan Ming Li (Adam)
-- 👀 I’m interested in data analytics and also data science
-- 🌱 I’m currently learning data analysis and machine learning
-- 💞️ I’m willing to collaborate on any projects 
-- 📫 Find me on [LinkedIn](www.linkedin.com/in/ming-li-chan-adam)
-
-<!---
-AdamChan-ML/AdamChan-ML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
