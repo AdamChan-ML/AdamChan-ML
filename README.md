@@ -2,7 +2,7 @@
 <h3 align="center">A data enthusiast who is passionate about data engineering and machine learning</h3>
 
 - 🌱 Working on projects related to **data engineering and machine learning**
-- 💡 Learning about cool things like Airflow
+- 💡 Learning about cool things like Airflow, Apache Spark, AWS, etc
 - 💞️ Always open to collaboration and opportunities
 
 <h3 align="left">Connect with me:</h3>
